@@ -1,9 +1,11 @@
 import styled from 'styled-components';
 
 export const Button0101Style = styled.button`
-  width: 56px;
-  height: 56px;
+  width: 150px;
+  height: 32px;
   outline: none;
   border: none;
-  background-color: #19ce60;
+  border-radius: 6px;
+  background-color: #93d3a2;
+  color: #fffc;
 `;
