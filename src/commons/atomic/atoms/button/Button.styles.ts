@@ -1,6 +1,9 @@
 import styled from 'styled-components';
 
-export const Box0101Style = styled.div`
-  width: 100px;
-  height: 80px;
+export const Button0101Style = styled.button`
+  width: 56px;
+  height: 56px;
+  outline: none;
+  border: none;
+  background-color: #19ce60;
 `;

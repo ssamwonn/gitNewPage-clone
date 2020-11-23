@@ -1,8 +1,7 @@
 import React from 'react';
-import Input0101header from '../molecules/input/Input0101header';
 
 const OMainNav = () => {
-  return <Input0101header />;
+  return <div></div>;
 };
 
 export default OMainNav;
