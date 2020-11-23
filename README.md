@@ -3,7 +3,7 @@
 
 ### 프로젝트 소개 및 목적 
 
-- 소개: naver clone project 진행 
+- 소개: git NewRepo clone 
 - 목적
   1. Atomic패턴으로 git new 페이지 구현하기 
   2. React: 함수형 React 컴포넌트, Hook을 사용하여 데이터 통신, 컴포넌트 분리 및 관리, 컴포넌트 간 데이터 바인딩을 적용해 본다.
